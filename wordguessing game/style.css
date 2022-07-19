@@ -1,0 +1,80 @@
+body{
+    background-image: url('./img/68048510-guess-gold-text-on-black-background-3d-rendered-royalty-free-stock-picture-this-image-can-be-used-fo.jpg');
+    background-repeat: no-repeat;
+    /* width: 100%; */
+    background-size: cover;
+    background-position: center;
+}
+table ,th ,td{
+    text-align: center;
+    
+    border: 2px solid;
+}
+td button{
+    width: 100%;
+}
+table{
+    background-color: rgba(232, 167, 82, 0.767);
+    margin: 30 20 20 20;
+    /* text-align: center; */
+    width: 60%;
+    height: 12vh;
+}
+tr {
+    height: 5vh;
+}
+.alpha-table{
+    /* margin: 15%; */
+    margin-top: 2%;
+    margin-left: 27%;
+    /* height: 12%; */
+}
+.YZ{
+    margin-left: 24px;
+}
+
+table button{
+    background-color: rgb(230, 234, 239);
+}
+.container #screen {
+    border: 2px solid  rgba(232, 167, 82, 0.767);
+    border-radius: 10px;
+    margin-left: 27%;
+    /* padding-top: 12px; */
+    font-size: 48px;
+    text-align: center;
+    background:  rgba(232, 167, 82, 0.767);
+    height: 51px;
+    width: 45%;
+    margin-top: 24%;
+}
+.container button:hover{
+    cursor: pointer;
+    background-color: rgba(232, 167, 82, 0.767);
+}
+.container button:active{
+    background-color: rgba(69, 47, 18, 0.767);
+    /* color: black !important; */
+
+}
+/* .sidebox{
+    border: 2px solid rgba(232, 167, 82, 0.767);
+    border-radius: 10px;
+    margin-left: 65%;
+    padding-top: 12px;
+    font-size: 48px;
+    text-align: center;
+    background: rgba(232, 167, 82, 0.767);
+    height: 311px;
+    width: 35%;
+    margin-top: -47%;
+} */
+/* .container2{
+
+    border: 2px solid rgba(232, 167, 82, 0.767);
+    border-radius: 10px;
+    margin-left: 77%;
+    width: 10%;
+    height: 50px;
+    
+} */
